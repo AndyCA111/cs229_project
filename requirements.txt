@@ -1,11 +1,19 @@
-# diffusers
-# accelerate
-# torchvision
-# transformers>=4.25.1
+diffusers
+accelerate
+torchvision
+transformers>=4.25.1
 ftfy
 tensorboard
 opencv-python
 Pillow
 pandas
 torchaudio
-# datasets
+datasets
+matplotlib
+tqdm
+scikit-learn
+h5py
+soundfile
+librosa
+pydub
+tensorboard
